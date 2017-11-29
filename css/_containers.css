@@ -1,0 +1,5 @@
+.box::before{
+  clear: both;
+  content: "";
+  display: table;
+}
