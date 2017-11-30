@@ -37,6 +37,11 @@ code{
 #main-nav{
   position: fixed;
 }
+/* Demo styles */
+[class^="grid--"] > *{
+  border: 1px solid #333;
+}
+/* ---------- */
 @media (min-width: 1023px) {
   main{
     padding-left: 300px;
