@@ -17,14 +17,21 @@ body{
   font-size: 36px;
 }
 [class^="heading--2"]{
-  font-size: 28px;
+  font-size: 32px;
 }
 [class^="heading--3"]{
-  font-size: 24px;
+  font-size: 28px;
 }
 [class^="heading--4"]{
+  font-size: 24px;
+}
+[class^="heading--5"]{
   font-size: 20px;
 }
+[class^="heading--6"]{
+  font-size: 16px;
+}
+
 .content__para{
   line-height: 1.4em;
 }
